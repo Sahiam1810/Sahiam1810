@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hi! 👋, I'm Sahiam Valentina Esteban
 
-<!--
-**Sahiam1810/Sahiam1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with knowledge of Python, MySQL, and C#, and experience using version control systems such as Git and GitHub for project development
+and management.
 
-Here are some ideas to get you started:
+### Technical Skills
+Python
+GitHub
+C#
+MYSQL
+HTML
+JavaScript
+CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Professional Skills
+Problem Solving
+Continuous Learning
+Adaptability
+Teamwork
+Responsibility and Discipline
+Time Management
+Results-Oriented Mindset
+
+### Contacto
+- [[LinkedIn](tu-enlace)](https://www.linkedin.com/in/sahiam-esteban-49751b391/)
+- [[Portafolio](tu-enlace)](https://sahiamdev.netlify.app/)
