@@ -1,17 +1,8 @@
 # ¡Hola! 👋 Soy Sahiam Valentina Esteban 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahiam1810&show_icons=true&theme=tokyonight&hide_border=true" alt="Sahiam's GitHub stats" />
-</p>
+![alt text](assets/images/PortadaSahiam.png)
 
-### 🚀 Sobre mí
-Soy una **Desarrolladora de Software** apasionada por la creación de soluciones eficientes y escalables. Actualmente me encuentro profundizando en arquitecturas limpias y automatización de procesos.
-
-- 🎓 **Estudiante de Universidad** enfocada en desarrollo de software.
-- ⚙️ Actualmente trabajando en: Proyectos con **C# (Clean Architecture/DDD)** y automatización con **n8n**.
-- 🌱 Aprendiendo continuamente sobre: Optimización de bases de datos y flujos de trabajo inteligentes.
-
----
+Desarrolladora de Software con conocimientos en Python, MySQL y C#, y experiencia en el uso de sistemas de control de versiones como Git y GitHub para el desarrollo y gestión de proyectos.
 
 ### 🛠️ Tecnologías y Herramientas
 
