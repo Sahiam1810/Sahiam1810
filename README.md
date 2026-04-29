@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Sahiam Valentina Esteban 
 
-<img src="assets/images/PortadaSahiam.png" alt="Portada Sahiam" width="500">
+<img src="assets/images/PortadaSahiam.png" alt="Portada Sahiam" width="550">
 
 
 ### Tecnologías y Herramientas
