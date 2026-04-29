@@ -1,11 +1,11 @@
 # ¡Hola! 👋 Soy Sahiam Valentina Esteban 
 
-<img src="assets/images/PortadaSahiam.png" alt="Portada Sahiam" width="300">
+<img src="assets/images/PortadaSahiam.png" alt="Portada Sahiam" width="500">
 
 Desarrolladora de Software con conocimientos en Python, MySQL y C#, y experiencia en el uso de sistemas de control de versiones como Git y GitHub para el desarrollo y gestión de proyectos.
 
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 | Backend & DB | Frontend & Otros | Herramientas de Productividad |
 | :--- | :--- | :--- |
@@ -15,21 +15,18 @@ Desarrolladora de Software con conocimientos en Python, MySQL y C#, y experienci
 
 ---
 
-### 🧠 Habilidades Profesionales
-* ✅ **Resolución de problemas:** Enfoque lógico y analítico.
-* 📈 **Mentalidad orientada a resultados:** Entrega de valor en cada commit.
-* 🤝 **Trabajo en equipo:** Colaboración efectiva en entornos de desarrollo.
-* ⏱️ **Gestión del tiempo:** Organización y cumplimiento de plazos.
+### Habilidades Profesionales
+* **Resolución de problemas:** Enfoque lógico y analítico.
+* **Mentalidad orientada a resultados:** Entrega de valor en cada commit.
+* **Trabajo en equipo:** Colaboración efectiva en entornos de desarrollo.
+* **Gestión del tiempo:** Organización y cumplimiento de plazos.
 
 ---
 
-### 📫 Conectemos:
+### Conectemos:
 <p align="left">
-<a href="https://www.linkedin.com/in/sahiam-esteban-49751b391/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sahiam Esteban" height="30" width="40" /></a>
-<a href="https://sahiamdev.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portafolio" height="30" width="40" /></a>
+Linkedin <a href="https://www.linkedin.com/in/sahiam-esteban-49751b391/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sahiam Esteban" height="30" width="40" /></a>
+Portafolio <a href="https://sahiamdev.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portafolio" height="30" width="40" /></a>
 </p>
 
 ---
-
-### 📊 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahiam1810&layout=compact&theme=tokyonight&hide_border=true)
