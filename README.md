@@ -2,8 +2,6 @@
 
 <img src="assets/images/PortadaSahiam.png" alt="Portada Sahiam" width="500">
 
-Desarrolladora de Software con conocimientos en Python, MySQL y C#, y experiencia en el uso de sistemas de control de versiones como Git y GitHub para el desarrollo y gestión de proyectos.
-
 
 ### Tecnologías y Herramientas
 
@@ -24,9 +22,11 @@ Desarrolladora de Software con conocimientos en Python, MySQL y C#, y experienci
 ---
 
 ### Conectemos:
-<p align="left">
-Linkedin <a href="https://www.linkedin.com/in/sahiam-esteban-49751b391/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sahiam Esteban" height="30" width="40" /></a>
-Portafolio <a href="https://sahiamdev.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portafolio" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/sahiam-esteban-49751b391/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://sahiamdev.netlify.app/" target="blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+</a>
 
 ---
