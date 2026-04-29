@@ -1,8 +1,9 @@
 # ¡Hola! 👋 Soy Sahiam Valentina Esteban 
 
-![alt text](assets/images/PortadaSahiam.png)
+<img src="assets/images/PortadaSahiam.png" alt="Portada Sahiam" width="300">
 
 Desarrolladora de Software con conocimientos en Python, MySQL y C#, y experiencia en el uso de sistemas de control de versiones como Git y GitHub para el desarrollo y gestión de proyectos.
+
 
 ### 🛠️ Tecnologías y Herramientas
 
